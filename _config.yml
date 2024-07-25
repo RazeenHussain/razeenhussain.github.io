@@ -17,11 +17,11 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About Me", file: "about.md"}
-  - {title: "Pulications", file: "publications.md"}
   - {title: "Education", file: "education.md"}
   - {title: "Experience", file: "experience.md"}
-  - {title: "Lab", url:"https://pilab.unige.it"}
+  - {title: "Publications", file: "publications.md"}
   - {title: "CV", file: "razeen.pdf"}
+  - {title: "Lab", url:"https://pilab.unige.it"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:razeenhussain@hotmail.com"}
