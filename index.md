@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: "Razeen Hussain"
 ---
 
 ![alt text](razeen.png)
