@@ -1,24 +1,35 @@
 ---
 layout: page
 title: Experience
-permalink: /experience/
 ---
 
-## University of Genoa
-**Doctor of Philosophy - PhD, Computer Science**  
+## Researcher
+**University of Genoa** 
+*DIBRIS, Via Dodecaneso 35, Genoa, Italy*  
+2022 - Present  
+
+## Consultant *(Robotics and Virtual Reality)*
+**Freelance**  
+2017 - Present  
+
+## Teaching Assistant
+**University of Genoa, Italy** 
+*DIBRIS, Via Dodecaneso 35, Genoa, Italy*  
+2020 - 2024  
+
+## PhD Researcher
+**University of Genoa, Genoa, Italy** 
+*DIBRIS, Via Dodecaneso 35, Genoa, Italy*  
 2018 - 2022  
-Thesis Title: Towards Achieving Natural Visual Experience in Immersive Virtual Environments: Addressing Cybersickness and Depth Perception  
 
-## Warsaw University of Technology
-**European Master on Advanced RObotics+ (EMARO+), Mechatronics, Robotics, and Automation Engineering**  
-2016 - 2017  
-Thesis Title: Investigation of design methods for developing the control system for walking machine  
+## Supply Chain Intern
+**Unilever Pakistan Limited** 
+*Wall's Ice Cream Factory, Lahore, Pakistan*  
+Summer 2014  
 
-## University of Genoa
-**European Master on Advanced RObotics+ (EMARO+), Mechatronics, Robotics, and Automation Engineering**  
-2015 - 2016  
+## Engineering Intern
+**Pakistan Oilfields Limited** 
+*Pariwali Production Facility, Khaur, Pakistan*  
+Summer 2013  
 
-## National University of Sciences and Technology (NUST)
-**Bachelor of Engineering (BE), Mechatronics, Robotics, and Automation Engineering**  
-2011 - 2015  
-Thesis Title: Development of an EEG controlled 6 degree of freedom upper limb prosthesis
+
