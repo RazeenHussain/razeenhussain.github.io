@@ -10,7 +10,7 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Menu
@@ -19,11 +19,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "CV"}
   - {file: "README.md", title: "Pulications"}
   - {file: "README.md", title: "Education"}
+  - {file: "README.md", title: "Experience"}
+  - {file: "README.md", title: "Lab"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:razeenhussain@hotmail.com"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/razeenhussain"}
   - {title: Github, icon: github, url: "https://github.com/RazeenHussain"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
