@@ -16,11 +16,12 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "CV"}
-  - {file: "README.md", title: "Pulications"}
-  - {file: "README.md", title: "Education"}
-  - {file: "README.md", title: "Experience"}
-  - {file: "README.md", title: "Lab"}
+  - {title: "About Me", file: "about.md"}
+  - {title: "Pulications", file: "publications.md"}
+  - {title: "Education", file: "education.md"}
+  - {title: "Experience", file: "experience.md"}
+  - {title: "Lab", url:"https://pilab.unige.it"}
+  - {title: "CV", file: "razeen.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:razeenhussain@hotmail.com"}
