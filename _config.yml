@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Experience", file: "experience.md"}
   - {title: "Publications", file: "publications.md"}
   - {title: "Teaching", file: "teaching.md"}
-  - {title: "CV", file: "razeen.pdf"}
+  - {title: "CV", url: "razeen.pdf"}
   - {title: "Lab", url: "https://pilab.unige.it"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
