@@ -10,8 +10,9 @@ I am an AR/VR researcher with a passion for exploring the natural perception and
 I am currently based at the Perception & Interaction Lab (PILab) at the Department of Informatics, Bioengineering, Robotics and Systems Engineering (DIBRIS) at the University of Genoa, Italy where I am currently carrying out my postdoctoral reserach activities.
 
 <br>
+
 # Contact Information
-Office: Room 314, Via Dodecaneso 35, Genoa, 16146, Italy
-Work Email: [razeen.hussain@edu.unige.it](mailto:razeen.hussain@edu.unige.it)
-Personal Email: [razeenhussain@hotmail.com](mailto:razeenhussain@hotmail.com)
-Phone: (+39) 3208855511
+**Office:** Room 314, Via Dodecaneso 35, Genoa, 16146, Italy
+**Work Email:** [razeen.hussain@edu.unige.it](mailto:razeen.hussain@edu.unige.it)
+**Personal Email:** [razeenhussain@hotmail.com](mailto:razeenhussain@hotmail.com)
+**Phone:** (+39) 3208855511
