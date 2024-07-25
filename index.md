@@ -12,7 +12,11 @@ I am currently based at the Perception & Interaction Lab (PILab) at the Departme
 <br>
 
 # Contact Information
+
 **Office:** Room 314, Via Dodecaneso 35, Genoa, 16146, Italy
+
 **Work Email:** [razeen.hussain@edu.unige.it](mailto:razeen.hussain@edu.unige.it)
+
 **Personal Email:** [razeenhussain@hotmail.com](mailto:razeenhussain@hotmail.com)
+
 **Phone:** (+39) 3208855511
