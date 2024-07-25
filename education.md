@@ -9,6 +9,7 @@ permalink: /education/
 2018 - 2022  
 *Thesis Title: Towards Achieving Natural Visual Experience in Immersive Virtual Environments: Addressing Cybersickness and Depth Perception*  
 
+<br>
 
 ## European Master on Advanced RObotics+ (EMARO+)
 **Warsaw University of Technology**  
@@ -16,6 +17,7 @@ permalink: /education/
 2015 - 2017  
 *Thesis Title: Investigation of design methods for developing the control system for walking machine*
 
+<br>
 
 ## BE Mechatronics Engineering
 **National University of Sciences and Technology**  
