@@ -16,10 +16,10 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "About Me", file: "about.md"}
   - {title: "Education", file: "education.md"}
   - {title: "Experience", file: "experience.md"}
   - {title: "Publications", file: "publications.md"}
+  - {title: "Teaching", file: "teaching.md"}
   - {title: "CV", file: "razeen.pdf"}
   - {title: "Lab", url:"https://pilab.unige.it"}
 
