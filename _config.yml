@@ -31,6 +31,11 @@ external:                  # shows a footer with social links - for available ic
   - {title: Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=MRIAQdAAAAAJ"}
   - {title: Github, icon: github, url: "https://github.com/RazeenHussain"}
 
+colors:
+  background: "#f8f8f8"
+  text: "#333333"
+  accent_color: "#007bff"
+
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
