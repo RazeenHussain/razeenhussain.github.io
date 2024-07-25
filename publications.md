@@ -21,6 +21,6 @@ title: Publications
 
 <br>
 
-#Patents
+# Patents
 - **Razeen Hussain**, Fabio Solari & Manuela Chessa (2023). Method based on inverse blurring for immersive media devices to mitigate vergence accommodation conflict. PCT/IB2023/059732, filed 29/09/2023. [WIPO Patent Pending]
 - **Razeen Hussain**, Fabio Solari & Manuela Chessa (2022). Method based on inverse blurring for immersive media devices to mitigate vergence accommodation conflict. IT102022000022278, filed 28/10/2022. [Italian Patent Pending]
