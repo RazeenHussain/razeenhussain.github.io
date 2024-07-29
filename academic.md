@@ -3,6 +3,16 @@ layout: page
 title: Academic
 ---
 
+# Supervision
+- [Cristina Maria Diez Bort](https://www.linkedin.com/in/cristina-d%C3%ADez-bort-26a4b727a/), MSc Computer Science, 2024-Current
+- [Shayan Alvansazyazdi](https://www.linkedin.com/in/shayan-alvansazyazdi/), MSc Computer Science, 2024-Current
+- Elia Romano, BSc Biomedical Engineering, 2024
+- Maria Fiore Moscatelli, BSc Biomedical Engineering, 2022-2023
+- Erika Ravelli, BSc Biomedical Engineering, 2021
+- Michele Mureddu, BSc Biomedical Engineering, 2021
+
+<br>
+
 # Reviewing Activities
 - Virtual Reality
 - IEEE Transactions on Human-Machine Systems (THMS)
