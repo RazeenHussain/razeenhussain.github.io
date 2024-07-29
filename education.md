@@ -10,11 +10,11 @@ title: Education
 **Thesis Title:** *Towards Achieving Natural Visual Experience in Immersive Virtual Environments: Addressing Cybersickness and Depth Perception*  
 
 **Thesis Advisor:** 
-- [Fabio Solari](https://scholar.google.com/citations?user=Wm5rLycAAAAJ), University of Genoa, Italy
-- [Manuela Chessa](https://scholar.google.com/citations?user=Rlc6k70AAAAJ), University of Genoa, Italy
+- [Fabio Solari](https://scholar.google.com/citations?user=Wm5rLycAAAAJ), University of Genoa (UNIGE), Italy
+- [Manuela Chessa](https://scholar.google.com/citations?user=Rlc6k70AAAAJ), University of Genoa (UNIGE), Italy
 
 **Thesis Reviewer:** 
-- [Lucile Sassatelli](https://scholar.google.com/citations?user=M_gMChEAAAAJ), Université Côte d’Azur, France
+- [Lucile Sassatelli](https://scholar.google.com/citations?user=M_gMChEAAAAJ), Université Côte d’Azur (UCA), France
 - [Bruno Herbelin](https://scholar.google.com/citations?user=zUhZaG0AAAAJ), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 
 <br>
@@ -27,11 +27,11 @@ title: Education
 **Thesis Title:** *Investigation of design methods for developing the control system for walking machine*
 
 **Thesis Advisor:** 
-- [Teresa Zielińska](https://scholar.google.com/citations?user=vUXghnQAAAAJ), Warsaw University of Technology, Poland
-- [Rene Hexel](https://scholar.google.com/citations?user=ADwJ4qMAAAAJ), Griffith University, Australia
+- [Teresa Zielińska](https://scholar.google.com/citations?user=vUXghnQAAAAJ), Warsaw University of Technology (WUT), Poland
+- [Rene Hexel](https://scholar.google.com/citations?user=ADwJ4qMAAAAJ), Griffith University (GU), Australia
 
 **Thesis Reviewer:** 
-- [Matteo Zoppi](https://scholar.google.com/citations?user=Z6SoCQcAAAAJ), University of Genoa, Italy
+- [Matteo Zoppi](https://scholar.google.com/citations?user=Z6SoCQcAAAAJ), University of Genoa (UNIGE), Italy
 
 <br>
 
