@@ -16,15 +16,16 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Home", file: "index.md"}
-  - {title: "Education", icon: user-graduate, sidebaricon: user-graduate, file: "education.md"}
-  - {title: "Experience", icon: briefcase, sidebaricon: briefcase, file: "experience.md"}
-  - {title: "Research", file: "research.md"}
-  - {title: "Publications", icon: envelope, file: "publications.md"}
-  - {title: "Academic", sidebaricon: bookmark, file: "academic.md"}
-  - {title: "Teaching", file: "teaching.md"}
-  - {title: "CV", url: "assets/razeen.pdf"}
-  - {title: "Lab", url: "https://pilab.unige.it"}
+  - {title: "Home", icon: house, file: "index.md"}
+  - {title: "Education", icon: landmark, file: "education.md"}
+  - {title: "Experience", icon: building, file: "experience.md"}
+  - {title: "Research", icon: folder, file: "research.md"}
+  - {title: "Publications", icon: book, file: "publications.md"}
+  - {title: "Academic", icon: clipboard, file: "academic.md"}
+  - {title: "Teaching", icon: chalkboard-user, file: "teaching.md"}
+  - {title: "Events", icon: calender, file: "events.md"}
+  - {title: "CV", icon: file, url: "assets/razeen.pdf"}
+  - {title: "Lab", icon: tag, url: "https://pilab.unige.it"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:razeenhussain@hotmail.com"}
