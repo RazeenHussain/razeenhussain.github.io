@@ -17,8 +17,8 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.md"}
-  - {title: "Education", file: "education.md", icon: user-graduate}
-  - {title: "Experience", file: "experience.md"}
+  - {title: "Education", sidebaricon: user-graduate, file: "education.md"}
+  - {title: "Experience", sidebaricon: briefcase, file: "experience.md"}
   - {title: "Research", file: "research.md"}
   - {title: "Publications", file: "publications.md"}
   - {title: "Academic", file: "academic.md"}
