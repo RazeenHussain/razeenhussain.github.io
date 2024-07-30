@@ -17,11 +17,11 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.md"}
-  - {title: "Education", sidebaricon: user-graduate, file: "education.md"}
-  - {title: "Experience", sidebaricon: briefcase, file: "experience.md"}
+  - {title: "Education", icon: user-graduate, sidebaricon: user-graduate, file: "education.md"}
+  - {title: "Experience", icon: briefcase, sidebaricon: briefcase, file: "experience.md"}
   - {title: "Research", file: "research.md"}
-  - {title: "Publications", file: "publications.md"}
-  - {title: "Academic", file: "academic.md"}
+  - {title: "Publications", icon: envelope, file: "publications.md"}
+  - {title: "Academic", sidebaricon: bookmark, file: "academic.md"}
   - {title: "Teaching", file: "teaching.md"}
   - {title: "CV", url: "assets/razeen.pdf"}
   - {title: "Lab", url: "https://pilab.unige.it"}
