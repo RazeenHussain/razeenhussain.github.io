@@ -29,7 +29,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:razeenhussain@hotmail.com"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/razeenhussain"}
-  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=MRIAQdAAAAAJ"}
+  - {title: Google Scholar, icon: bookmark, url: "https://scholar.google.com/citations?user=MRIAQdAAAAAJ"}
   - {title: GitHub, icon: github, url: "https://github.com/RazeenHussain"}
 
 comments:
