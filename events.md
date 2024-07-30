@@ -4,7 +4,7 @@ title: Events
 ---
 
 # Summer Schools
-- Data Science Summer School [DS3 2023](https://ds3.ai/) by Hertie School Data Science Lab, August 14-25, 2023, Online
+- Data Science Summer School ([DS3 2023](https://ds3.ai/)) by Hertie School Data Science Lab, August 14-25, 2023, Online
 - International Computer Vision Summer School ([ICVSS 2019](https://iplab.dmi.unict.it/icvss2019/)) by University of Catania, July 17-13, 2019, Sicily, Italy
 - Machine Learning Crash Course ([MLCC 2019](https://lcsl.unige.it/courses/mlcc/mlcc2019/)) by University of Genoa, June 17-21, 2019, Genoa, Italy
 - Regularization Methods for Machine Learning ([RegML 2018](https://lcsl.unige.it/courses/regml/regml2018/)) by University of Genoa, June 18-22, 2018, Genoa, Italy
