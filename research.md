@@ -12,11 +12,13 @@ Choisis is a serious game developed to offer clinicians objective measures in as
 ![alt text](assets/OurMind.jpg)
 The OurMind project leverages virtual reality technology to create an interactive virtual environment for psychological tests and patient assessments. The main goal is to gather data and analyze patient reactions to 360° video scenarios, enhancing diagnostic accuracy and aiding the care or treatment process. The project has been developed in collaboration between University of Genoa, BBS and ASL1. 
 
-# VR Locomotion 
+<br>
 
 # Accommodation Vergence Conflict
 ![alt text](assets/VAC.jpg)
 Recently, immersive media devices have surged in popularity, yet several issues persist. Depth perception is vital for human interaction with the environment, relying on convergence and accommodation for key depth cues. In virtual environments, these cues often mismatch, causing discomfort and impairing distance perception. To resolve this issue, we've developed a technique incorporating inverse blurring into immersive media devices. Using a novel approach to classical Wiener deconvolution, this technique operates without an eye-tracker and is implemented in a commercial immersive media device. [[LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10315149)]
+
+<br>
 
 # Foveated Depth-of-Field
 ![alt text](assets/FoveatedDoF.jpg)
