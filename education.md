@@ -7,7 +7,8 @@ title: Education
 **University of Genoa**  
 2018 - 2022  
 
-**Thesis Title:** *Towards Achieving Natural Visual Experience in Immersive Virtual Environments: Addressing Cybersickness and Depth Perception*  
+**Thesis Title:** *Towards Achieving Natural Visual Experience in Immersive Virtual Environments: Addressing Cybersickness and Depth Perception* 
+[[DOWNLOAD](assets/ThesisPhD.pdf)] 
 
 **Thesis Advisor:** 
 - [Fabio Solari](https://scholar.google.com/citations?user=Wm5rLycAAAAJ), University of Genoa (UNIGE), Italy
@@ -24,7 +25,8 @@ title: Education
 **University of Genoa**  
 2015 - 2017  
 
-**Thesis Title:** *Investigation of design methods for developing the control system for walking machine*
+**Thesis Title:** *Investigation of design methods for developing the control system for walking machine*  
+[[DOWNLOAD](assets/ThesisMS.pdf)] 
 
 **Thesis Advisor:** 
 - [Teresa Zielińska](https://scholar.google.com/citations?user=vUXghnQAAAAJ), Warsaw University of Technology (WUT), Poland
