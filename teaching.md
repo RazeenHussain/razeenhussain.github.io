@@ -3,6 +3,12 @@ layout: page
 title: Teaching Activities
 ---
 
+# 2024-2025
+- Computer Vision (MSc Robotics Engineering)
+- Algorithms & Object Oriented Programming (BSc Biomedical Engineering)
+
+<br>
+
 # 2023-2024
 - Augmented Reality (MSc Computer Science)
 - Computer Vision (MSc Robotics Engineering)
