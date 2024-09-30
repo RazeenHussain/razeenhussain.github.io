@@ -4,8 +4,10 @@ title: Academic
 ---
 
 # Supervision
-- [Cristina Maria Diez Bort](https://www.linkedin.com/in/cristina-d%C3%ADez-bort-26a4b727a/), MSc Design Engineering, 2024-Current
 - [Shayan Alvansazyazdi](https://www.linkedin.com/in/shayan-alvansazyazdi/), MSc Computer Science, 2024-Current
+- Davide Cavallo, BSc Biomedical Engineering, 2024-Current
+- Alessandro Venturini, BSc Biomedical Engineering, 2024-Current
+- [Cristina Maria Diez Bort](https://www.linkedin.com/in/cristina-d%C3%ADez-bort-26a4b727a/), MSc Design Engineering, 2024
 - Elia Romano, BSc Biomedical Engineering, 2024
 - Maria Fiore Moscatelli, BSc Biomedical Engineering, 2022-2023
 - Erika Ravelli, BSc Biomedical Engineering, 2021
