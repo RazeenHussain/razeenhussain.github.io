@@ -12,7 +12,7 @@ title: Publications
 <br>
 
 # Conference Proceedings
-- Manuela Chessa, Lorenzo Gerini, **Razeen Hussain**, Matteo Martini, Marianna Pizzo, Fabio Solari & Eros Viola (2024). In 2024 IEEE 8th Forum on Research and Technologies for Society and Industry Innovation (RTSI). [In Press]
+- Manuela Chessa, Lorenzo Gerini, **Razeen Hussain**, Matteo Martini, Marianna Pizzo, Fabio Solari & Eros Viola (2024). Extended Reality and Artificial Intelligence for Exergaming: Opportunities and Open Challenges for Rehabilitation and Cognitive Training. In 2024 IEEE 8th Forum on Research and Technologies for Society and Industry Innovation (RTSI). [In Press]
 - **Razeen Hussain**, Manuela Chessa & Fabio Solari (2024). Exploring foveation techniques for virtual reality environments. In 2024 19th International Conference on Computer Graphics Theory and Applications (GRAPP). [DOI:10.5220/0012458200003660](https://doi.org/10.5220/0012458200003660)
 - **Razeen Hussain**, Marianna Pizzo, Giorgio Ballestin, Manuela Chessa & Fabio Solari (2022). Experimental validation of photogrammetry based 3D reconstruction software. In 2022 IEEE 5th International Conference on Image Processing Applications and Systems (IPAS). [DOI:10.1109/IPAS55744.2022.10053055](https://doi.org/10.1109/IPAS55744.2022.10053055)
 - **Razeen Hussain**, Manuela Chessa & Fabio Solari (2020). Modelling foveated depth-of-field blur for improving depth perception in virtual reality. In 2020 IEEE 4th International Conference on Image Processing, Applications and Systems (IPAS). [DOI:10.1109/IPAS50080.2020.9334947](https://doi.org/10.1109/IPAS50080.2020.9334947)
@@ -23,4 +23,4 @@ title: Publications
 
 # Patents
 - **Razeen Hussain**, Fabio Solari & Manuela Chessa (2023). Method based on inverse blurring for immersive media devices to mitigate vergence accommodation conflict. PCT/IB2023/059732, filed 29/09/2023. [WIPO Patent Pending]
-- **Razeen Hussain**, Fabio Solari & Manuela Chessa (2022). Method based on inverse blurring for immersive media devices to mitigate vergence accommodation conflict. IT102022000022278, filed 28/10/2022. [Italian Patent Pending]
+- **Razeen Hussain**, Fabio Solari & Manuela Chessa (2022). Metodo basato sulla sfocatura inversa per dispositivi multimediali immersivi per attenuare il conflitto vergenza/accomodamento. IT102022000022278, filed 28/10/2022, granted 10/10/2024.
