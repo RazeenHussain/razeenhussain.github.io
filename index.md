@@ -18,5 +18,3 @@ I am currently based at the Perception & Interaction Lab (PILab) at the Departme
 **Work Email:** [razeen.hussain@edu.unige.it](mailto:razeen.hussain@edu.unige.it)
 
 **Personal Email:** [razeenhussain@hotmail.com](mailto:razeenhussain@hotmail.com)
-
-**Phone:** (+39) 3208855511
