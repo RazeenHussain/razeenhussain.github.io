@@ -9,10 +9,10 @@ title: Experience
 2022 - Present  
 
 **Responsibilities:**
-- Developed and implemented cutting-edge solutions to enhance visual perception within virtual environments, meticulously fine-tuning the immersive experience to closely mirror real-world interactions.
+- Collaborated closely with clinical psychologists to design and develop several serious games for psychological assessment, leveraging Unity as the primary development platform. These games are compatible with VR, Android and WebGL platforms.
 - Partnered with industrial collaborators to create an OCR (Optical Character Recognition) application tailored specifically for the Microsoft Hololens 2, utilizing its unique capabilities within the AR domain.
-- Applied photogrammetry techniques proficiently to reconstruct 3D objects, ensuring high-quality and accurate models for seamless integration into AR/VR applications.
-- Collaborated closely with Côte d’Azur University to design and develop the Choisis! game, leveraging Unity as the primary development platform. This game aimed to assess apathy and was compatible with Android and WebGL platforms.
+- Researched various VR locomotion techniques, with a primary focus on enhancing distance perception accuracy.
+- Applied photogrammetry techniques to reconstruct 3D objects, ensuring high-quality and accurate models for seamless integration into AR/VR applications.
 - Collaborated with TU Dresden to assess the efficacy of spatial blurring in both passive and active VR scenarios.
 - Evaluated various foveation techniques applied to VR environments with a focus on the naturalness of the output.
 - Provided comprehensive supervision to multiple undergraduate and master’s students, specifically focusing on research and development of serious games and VR applications.
@@ -28,7 +28,6 @@ title: Experience
 - Contributed to the development of a VR-based remote operator training application, incorporating software and hardware components to create a robust immersive training environment.
 - Designed and implemented a vision-based algorithm for aerial detection of high-tension wires, utilizing software development skills to enhance safety measures.
 - Led the development of a software architecture for a domestic cleaning robot, ensuring efficient integration and interaction between various software and hardware components. 
-- Conducted thorough research and analysis to identify optimal software and hardware solutions for each project, considering factors such as performance, compatibility, and cost-effectiveness.
 
 <br>
 
