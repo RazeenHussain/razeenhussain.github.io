@@ -5,7 +5,7 @@ title: Academic
 
 # Supervision
 - **Masters**
-  - Behnam Rad, MSc Computer Science, 2024-Current
+  - [Behnam Rad](https://www.linkedin.com/in/behnam-rad/), MSc Computer Science, 2024-Current
   - [Shayan Alvansazyazdi](https://www.linkedin.com/in/shayan-alvansazyazdi/), MSc Computer Science, 2024-Current
   - [Cristina Maria Diez Bort](https://www.linkedin.com/in/cristina-d%C3%ADez-bort-26a4b727a/), MSc Design Engineering, 2024 
 
@@ -26,6 +26,7 @@ title: Academic
 - [Virtual Reality](https://link.springer.com/journal/10055)
 - IEEE Transactions on Human-Machine Systems ([THMS](https://www.ieeesmc.org/publications/transactions-on-human-machine-systems/))
 - IEEE Computer Graphics and Applications ([CG&A](https://www.computer.org/csdl/magazine/cg))
+- 11th International Conference of the Immersive Learning Research Network ([iLRN 2025](https://www.immersivelrn.org/ilrn2025/home/)), June 15–19, 2025, Chicago, Illinois, US
 - ACM CHI Conference on Human Factors in Computing Systems ([CHI 2025](https://chi2025.acm.org/)), April 26 - May 1, 2025, Yokohama, Japan
 - 32nd IEEE Conference on Virtual Reality and 3D User Interfaces ([IEEE VR 2025](https://ieeevr.org/2025/)), March 8-12, 2025, Saint-Malo, France
 - 23rd IEEE International Symposium on Mixed and Augmented Reality ([ISMAR 2024](https://ieeeismar.org/)), October 21-25, 2024, Seattle, WA, USA 
