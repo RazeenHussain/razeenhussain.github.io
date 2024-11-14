@@ -21,7 +21,7 @@ title: Experience
 
 # Consultant *(Robotics and Virtual Reality)*  
 **Freelance**  
-2017 - Present  
+2017 - 2023  
 
 **Responsibilities:**
 - Collaborated as part of a technology scouting team to identify and evaluate the latest advancements in software and hardware technologies relevant to XR, AI, and robotics.
