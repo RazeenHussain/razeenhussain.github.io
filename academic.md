@@ -14,6 +14,7 @@ title: Academic
 - **Bachelors**
   - Antonio Mazziotta, BSc Computer Science, 2024-Current
   - Davide Cavallo, BSc Biomedical Engineering, 2024-Current
+  - Mario Mangraviti, BSc Biomedical Engineering, 2024-Current
   - Alessandro Venturini, BSc Biomedical Engineering, 2024-Current
   - Elia Romano, BSc Biomedical Engineering, 2024
   - Maria Fiore Moscatelli, BSc Biomedical Engineering, 2022-2023
