@@ -36,4 +36,4 @@ The OurMind project leverages virtual reality technology to create an interactiv
 
 - **BIVRA:**
 ![alt text](assets/BIVRA.jpg)
-Body Image Virtual Reality Assessment (BIVRA) is a VR experience for the Meta Quest 2/3. It is designed to assess and support the treatment of eating disorders, body image concerns, and self-confidence issues. Through immersive and interactive scenarios, BIVRA provides users with a safe, controlled environment to explore and address their perceptions of body image, fostering therapeutic insights and promoting mental well-being.
+BIVRA is a VR-based serious game designed to assess and support the treatment of eating disorders, body image concerns, and self-confidence issues. Through immersive and interactive scenarios, BIVRA provides users with a safe, controlled environment to explore and address their perceptions of body image, fostering therapeutic insights and promoting mental well-being.
