@@ -5,7 +5,7 @@ title: Education
 
 # PhD Computer Science
 **University of Genoa**  
-2018 - 2022  
+11/2018 - 07/2022  
 
 **Thesis Title:** *Towards Achieving Natural Visual Experience in Immersive Virtual Environments: Addressing Cybersickness and Depth Perception* 
 [[DOWNLOAD](assets/ThesisPhD.pdf)] 
@@ -23,7 +23,7 @@ title: Education
 # European Master on Advanced RObotics+ (EMARO+)
 **Warsaw University of Technology**  
 **University of Genoa**  
-2015 - 2017  
+09/2015 - 09/2017  
 
 **Thesis Title:** *Investigation of design methods for developing the control system for walking machine*  
 [[DOWNLOAD](assets/ThesisMS.pdf)] 
@@ -39,7 +39,7 @@ title: Education
 
 # BE Mechatronics Engineering
 **National University of Sciences and Technology**  
-2011 - 2015  
+08/2011 - 08/2015  
 
 **Thesis Title:** *Development of an EEG controlled 6 degree of freedom upper limb prosthesis*
 
