@@ -6,7 +6,7 @@ title: Experience
 # Researcher
 **University of Genoa**  
 *DIBRIS, Via Dodecaneso 35, Genoa, Italy*  
-2022 - Present  
+03/2022 - Present  
 
 **Responsibilities:**
 - Collaborated closely with clinical psychologists to design and develop several serious games for psychological assessment, leveraging Unity as the primary development platform. These games are compatible with VR, Android and WebGL platforms.
@@ -21,7 +21,7 @@ title: Experience
 
 # Consultant *(Robotics and Virtual Reality)*  
 **Freelance**  
-2017 - 2023  
+12/2017 - 03/2024  
 
 **Responsibilities:**
 - Collaborated as part of a technology scouting team to identify and evaluate the latest advancements in software and hardware technologies relevant to XR, AI, and robotics.
@@ -34,7 +34,7 @@ title: Experience
 # PhD Researcher
 **University of Genoa, Genoa, Italy**   
 *DIBRIS, Via Dodecaneso 35, Genoa, Italy*  
-2018 - 2022  
+11/2018 - 07/2022  
 
 **Responsibilities:**
 - Led a research project focused on advancing techniques to modify visual stimuli in immersive media devices, specifically targeting the improvement of cybersickness and depth perception. This involved exploring innovative approaches and conducting experiments to validate the effectiveness of the proposed solutions.
