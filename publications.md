@@ -12,6 +12,7 @@ title: Publications
 <br>
 
 # Conference Proceedings
+- **Razeen Hussain**, Manuela Chessa & Fabio Solari (2025). A Comparative Study on Locomotion Methods and Distance Perception in Immersive Virtual Reality. In 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). [In Press]
 - Cristina Díez Bort, **Razeen Hussain**, Valeria Manera, Manuela Chessa and Fabio Solari (2025). A Serious Game for Early Detection and Assessment of Social Apathy: A Pilot Study. In 2025 9th International Conference on Human Computer Interaction Theory and Applications (HUCAPP). [In Press]
 - Manuela Chessa, Lorenzo Gerini, **Razeen Hussain**, Matteo Martini, Marianna Pizzo, Fabio Solari & Eros Viola (2024). Extended Reality and Artificial Intelligence for Exergaming: Opportunities and Open Challenges for Rehabilitation and Cognitive Training. In 2024 IEEE 8th Forum on Research and Technologies for Society and Industry Innovation (RTSI). [DOI:10.1109/RTSI61910.2024.10761257](https://doi.org/10.1109/RTSI61910.2024.10761257)
 - **Razeen Hussain**, Manuela Chessa & Fabio Solari (2024). Exploring foveation techniques for virtual reality environments. In 2024 19th International Conference on Computer Graphics Theory and Applications (GRAPP). [DOI:10.5220/0012458200003660](https://doi.org/10.5220/0012458200003660)
