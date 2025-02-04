@@ -29,6 +29,7 @@ title: Academic
 - IEEE Transactions on Human-Machine Systems ([THMS](https://www.ieeesmc.org/publications/transactions-on-human-machine-systems/))
 - IEEE Computer Graphics and Applications ([CG&A](https://www.computer.org/csdl/magazine/cg))
 - 11th International Conference of the Immersive Learning Research Network ([iLRN 2025](https://www.immersivelrn.org/ilrn2025/home/)), June 15–19, 2025, Chicago, Illinois, US
+- ACM International Conference on Interactive Media Experiences ([IMX 2025](https://imx.acm.org/2025/)), June 3-6, 2025, Rio de Janeiro, Brazil
 - ACM CHI Conference on Human Factors in Computing Systems ([CHI 2025](https://chi2025.acm.org/)), April 26 - May 1, 2025, Yokohama, Japan
 - 32nd IEEE Conference on Virtual Reality and 3D User Interfaces ([IEEE VR 2025](https://ieeevr.org/2025/)), March 8-12, 2025, Saint-Malo, France
 - 23rd IEEE International Symposium on Mixed and Augmented Reality ([ISMAR 2024](https://ieeeismar.org/)), October 21-25, 2024, Seattle, WA, USA 
