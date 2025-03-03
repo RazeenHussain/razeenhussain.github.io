@@ -15,8 +15,8 @@ title: Academic
 - **Bachelors**
   - Antonio Mazziotta, BSc Computer Science, 2024-Current
   - Alessandro Venturini, BSc Biomedical Engineering, 2024-Current
+  - Mario Mangraviti, BSc Biomedical Engineering, 2024-Current
   - Davide Cavallo, BSc Biomedical Engineering, 2024-2025
-  - Mario Mangraviti, BSc Biomedical Engineering, 2024-2025
   - Elia Romano, BSc Biomedical Engineering, 2024
   - Maria Fiore Moscatelli, BSc Biomedical Engineering, 2022-2023
   - Erika Ravelli, BSc Biomedical Engineering, 2021
@@ -43,9 +43,10 @@ title: Academic
 
 # Other Activities
 - Program Committee Member at 11th International Conference of the Immersive Learning Research Network ([iLRN 2025](https://www.immersivelrn.org/ilrn2025/home/)), June 15–19, 2025, Chicago, Illinois, US
-- Session Chair at 8th International Conference on Human Computer Interaction Theory and Applications ([HUCAPP 2024](https://hucapp.scitevents.org/?y=2024)), February 27-29, 2024, Rome, Italy
+- Session Chair at 9th International Conference on Human Computer Interaction Theory and Applications ([HUCAPP 2025](https://hucapp.scitevents.org/?y=2025)), February 26-28, 2025, Porto, Portugal
 - Program Committee Member at 8th International Conference on Artificial Intelligence and Virtual Reality ([AIVR 2024](https://aivr.org/)), July 19-21, 2024, Fukuoka, Japan
 - Program Committee Member at 10th International Conference of the Immersive Learning Research Network ([iLRN 2024](https://www.immersivelrn.org/ilrn2024/)), June 10–13, 2024, Glasgow, Scotland
+- Session Chair at 8th International Conference on Human Computer Interaction Theory and Applications ([HUCAPP 2024](https://hucapp.scitevents.org/?y=2024)), February 27-29, 2024, Rome, Italy
 - Session Chair at 5th IEEE International Conference on Image Processing Applications and Systems ([IPAS 2022](https://ipas.ieee.tn/)), December 5-7, 2022, Genoa, Italy
 - Local Arrangement Chair at 5th IEEE International Conference on Image Processing Applications and Systems ([IPAS 2022](https://ipas.ieee.tn/)), December 5-7, 2022, Genoa, Italy
 - Publication Team Member at 1st IEEE International Conference on Robotics and Artificial Intelligence (ICRAI 2012), October 22-23, 2012, Islamabad, Pakistan
