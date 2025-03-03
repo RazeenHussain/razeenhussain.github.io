@@ -13,6 +13,7 @@ title: Events
 <br>
 
 # Conferences
+- 9th International Conference on Human Computer Interaction Theory and Applications ([HUCAPP 2025](https://hucapp.scitevents.org/?y=2025)), February 26-28, 2025, Porto, Portugal
 - 19th International Conference on Computer Graphics Theory and Applications ([GRAPP 2024](https://grapp.scitevents.org/?y=2024)), February 27-29, 2024, Rome, Italy
 - 5th IEEE International Conference on Image Processing Applications and Systems ([IPAS 2022](https://ipas.ieee.tn/)), December 5-7, 2022, Genoa, Italy
 - 4th IEEE International Conference on Image Processing Applications and Systems ([IPAS 2020](https://ipas.ieee.tn/)), December 9-11, 2020, Online
