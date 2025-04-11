@@ -13,6 +13,7 @@ title: Academic
 <br>
 
 - **Bachelors**
+  - Alessandro Venere, BSc Biomedical Engineering, 2025-Current
   - Antonio Mazziotta, BSc Computer Science, 2024-Current
   - Alessandro Venturini, BSc Biomedical Engineering, 2024-Current
   - Mario Mangraviti, BSc Biomedical Engineering, 2024-Current
