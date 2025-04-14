@@ -27,6 +27,7 @@ title: Academic
 
 # Reviewing Activities
 - [Virtual Reality](https://link.springer.com/journal/10055)
+- International Journal of Human-Computer Interaction ([IJHCI](https://www.tandfonline.com/journals/hihc20))
 - IEEE Transactions on Human-Machine Systems ([THMS](https://www.ieeesmc.org/publications/transactions-on-human-machine-systems/))
 - IEEE Computer Graphics and Applications ([CG&A](https://www.computer.org/csdl/magazine/cg))
 - 11th International Conference of the Immersive Learning Research Network ([iLRN 2025](https://www.immersivelrn.org/ilrn2025/home/)), June 15–19, 2025, Chicago, Illinois, US
