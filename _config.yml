@@ -23,6 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Publications", sidebaricon: print, file: "publications.md"}
   - {title: "Academic", sidebaricon: book, file: "academic.md"}
   - {title: "Teaching", sidebaricon: clipboard, file: "teaching.md"}
+  - {title: "Students", sidebaricon: book, file: "supervision.md"}
   - {title: "Events", sidebaricon: map, file: "events.md"}
   - {title: "CV", sidebaricon: file, url: "assets/razeen.pdf"}
   - {title: "Lab", sidebaricon: tag, url: "https://pilab.unige.it"}
