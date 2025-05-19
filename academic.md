@@ -4,7 +4,8 @@ title: Academic
 ---
 
 # Seminar Talks
-- *Rendering and Shaders in Unity*, May 19, 2025, Genoa, Italy
+- *Rendering & Shaders in Unity*, May 19, 2025, Genoa, Italy
+- *Perception & Interaction Lab @ DIBRIS*, December 11, 2024, Genoa, Italy
 - *Perceptual Issues in Virtual Reality Systems*, April 22 , 2021, Genoa, Italy
 - *Defocus Blur in Virtual Environments*, April 23, 2020, Genoa, Italy
 - *Visual Perception in Virtual Reality Systems*, October 17, 2019, Genoa, Italy
