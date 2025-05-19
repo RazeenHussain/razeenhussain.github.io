@@ -11,7 +11,7 @@ title: Academic
 - *Perceptual Issues in Virtual Reality Systems*, April 22 , 2021, Genoa, Italy
 - *Modelling Foveated Depth-of-field Blur for Improving Depth Perception in Virtual Reality*, December 10, 2020, Genoa, Italy
 - *Defocus Blur in Virtual Environments*, April 23, 2020, Genoa, Italy
-- *Simulated foveated depth-of-field blur for virtual reality systems*, December 18, 2019, London, United Kingdom
+- *Simulated Foveated Depth-of-field Blur for Virtual Reality Systems*, December 18, 2019, London, United Kingdom
 - *Visual Perception in Virtual Reality Systems*, October 17, 2019, Genoa, Italy
 
 <br>
