@@ -3,11 +3,15 @@ layout: page
 title: Academic
 ---
 
-# Seminar Talks
+# Seminar/Talks
 - *Rendering & Shaders in Unity*, May 19, 2025, Genoa, Italy
+- *A Serious Game for Early Detection and Assessment of Social Apathy: A Pilot Study*, February 27, 2025, Porto, Portugal
 - *Perception & Interaction Lab @ DIBRIS*, December 11, 2024, Genoa, Italy
+- *Exploring Foveation Techniques for Virtual Reality Environments*, February 28, 2024, Rome, Italy
 - *Perceptual Issues in Virtual Reality Systems*, April 22 , 2021, Genoa, Italy
+- *Modelling Foveated Depth-of-field Blur for Improving Depth Perception in Virtual Reality*, December 10, 2020, Genoa, Italy
 - *Defocus Blur in Virtual Environments*, April 23, 2020, Genoa, Italy
+- *Simulated foveated depth-of-field blur for virtual reality systems*, December 18, 2019, London, United Kingdom
 - *Visual Perception in Virtual Reality Systems*, October 17, 2019, Genoa, Italy
 
 <br>
