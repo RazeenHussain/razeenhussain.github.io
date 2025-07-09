@@ -4,6 +4,7 @@ title: Supervision
 ---
 
 # Masters
+- Celeste Bazzi, MSc Computer Science, 2025-Current
 - Federica Bruno, MSc Bioengineering, 2025-Current
 - [Behnam Rad](https://www.linkedin.com/in/behnam-rad/), MSc Computer Science, 2024-Current
 - [Shayan Alvansazyazdi](https://www.linkedin.com/in/shayan-alvansazyazdi/), MSc Computer Science, 2024-2025
