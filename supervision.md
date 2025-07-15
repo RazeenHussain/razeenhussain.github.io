@@ -13,11 +13,11 @@ title: Supervision
 <br>
 
 # Bachelors
-- Francesco Gnone, BSc Biomedical Engineering, 2025-Current
 - Alessandro Venere, BSc Biomedical Engineering, 2025-Current
 - Antonio Mazziotta, BSc Computer Science, 2024-Current
-- Alessandro Venturini, BSc Biomedical Engineering, 2024-Current
-- Mario Mangraviti, BSc Biomedical Engineering, 2024-Current
+- Francesco Gnone, BSc Biomedical Engineering, 2025
+- Alessandro Venturini, BSc Biomedical Engineering, 2024-2025
+- Mario Mangraviti, BSc Biomedical Engineering, 2024-2025
 - Davide Cavallo, BSc Biomedical Engineering, 2024-2025
 - Elia Romano, BSc Biomedical Engineering, 2024
 - Maria Fiore Moscatelli, BSc Biomedical Engineering, 2022-2023
