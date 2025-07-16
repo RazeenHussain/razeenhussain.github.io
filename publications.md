@@ -5,9 +5,9 @@ title: Publications
 
 # Journal Articles
 - **Razeen Hussain**, Manuela Chessa & Fabio Solari (2023). Improving depth perception in immersive media devices by addressing vergence-accommodation conflict. IEEE Transactions on Visualization & Computer Graphics (TVCG), 30(9). [DOI:10.1109/TVCG.2023.3331902](https://doi.org/10.1109/TVCG.2023.3331902)
-- **Razeen Hussain**, Manuela Chessa & Fabio Solari (2021). Mitigating cybersickness in virtual reality systems through foveated depth-of-field blur. Sensors, 21(12). [DOI:10.3390/s21124006](https://doi.org/)
+- **Razeen Hussain**, Manuela Chessa & Fabio Solari (2021). Mitigating cybersickness in virtual reality systems through foveated depth-of-field blur. Sensors, 21(12). [DOI:10.3390/s21124006](https://doi.org/10.3390/s21124006)
 - Aneeq Zia, Kiran Bhattacharyya, Xi Liu, Ziheng Wang, Satoshi Kondo, Emanuele Colleoni, Beatrice van Amsterdam, **Razeen Hussain**, Raabid Hussain, Lena Maier-Hein, Danail Stoyanov, Stefanie Speidel & Anthony Jarc (2021). Surgical visual domain adaptation: Results from the MICCAI 2020 SurgVisDom challenge. [ArXiv:2102.13644](https://arxiv.org/abs/2102.13644)
-- **Razeen Hussain**, Teresa Zielinska & Rene Hexel (2019). Finite state automaton based control system for walking machines. International Journal of Advanced Robotic Systems (IJARS), 16(3). [DOI:10.1177/1729881419853182](https://doi.org/)
+- **Razeen Hussain**, Teresa Zielinska & Rene Hexel (2019). Finite state automaton based control system for walking machines. International Journal of Advanced Robotic Systems (IJARS), 16(3). [DOI:10.1177/1729881419853182](https://doi.org/10.1177/1729881419853182)
 
 <br>
 
