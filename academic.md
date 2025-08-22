@@ -19,9 +19,9 @@ title: Academic
 # Reviewing Activities
 - **Journals**
   - [Virtual Reality](https://link.springer.com/journal/10055)
-  - International Journal of Human-Computer Interaction ([IJHCI](https://www.tandfonline.com/journals/hihc20))
   - IEEE Transactions on Human-Machine Systems ([THMS](https://www.ieeesmc.org/publications/transactions-on-human-machine-systems/))
   - IEEE Computer Graphics and Applications ([CG&A](https://www.computer.org/csdl/magazine/cg))
+  - International Journal of Human-Computer Interaction ([IJHCI](https://www.tandfonline.com/journals/hihc20))
 
 <br>
 
@@ -41,6 +41,7 @@ title: Academic
 <br>
 
 # Other Activities
+- Program Committee Member at 12th International Conference of the Immersive Learning Research Network ([iLRN 2026](https://www.immersivelrn.org/ilrn2026/home/)), June 27–30, 2026, Athens, Greece
 - Program Committee Member at 11th International Conference of the Immersive Learning Research Network ([iLRN 2025](https://www.immersivelrn.org/ilrn2025/home/)), June 15–19, 2025, Chicago, Illinois, US
 - Session Chair at 9th International Conference on Human Computer Interaction Theory and Applications ([HUCAPP 2025](https://hucapp.scitevents.org/?y=2025)), February 26-28, 2025, Porto, Portugal
 - Program Committee Member at 8th International Conference on Artificial Intelligence and Virtual Reality ([AIVR 2024](https://aivr.org/)), July 19-21, 2024, Fukuoka, Japan
