@@ -20,13 +20,14 @@ title: Academic
 - **Journals**
   - [Virtual Reality](https://link.springer.com/journal/10055)
   - IEEE Transactions on Human-Machine Systems ([THMS](https://www.ieeesmc.org/publications/transactions-on-human-machine-systems/))
-  - IEEE Computer Graphics and Applications ([CG&A](https://www.computer.org/csdl/magazine/cg))
   - [Frontiers in Virtual Reality](https://www.frontiersin.org/journals/virtual-reality)
+  - IEEE Computer Graphics and Applications ([CG&A](https://www.computer.org/csdl/magazine/cg))
   - International Journal of Human-Computer Interaction ([IJHCI](https://www.tandfonline.com/journals/hihc20))
 
 <br>
 
 - **Conferences**
+  - ACM CHI Conference on Human Factors in Computing Systems ([CHI 2026](https://chi2026.acm.org/)), April 13-17, 2026, Barcelona, Spain
   - 31st ACM Conference on Intelligent User Interfaces ([ACM IUI 2026](https://iui.acm.org/2026/)), March 23-26, 2026, Paphos, Cyprus
   - 24th IEEE International Symposium on Mixed and Augmented Reality ([ISMAR 2025](https://www.ieeeismar.net/2025/)), October 8-12, 2025, Daejeon, South Korea 
   - 11th International Conference of the Immersive Learning Research Network ([iLRN 2025](https://www.immersivelrn.org/ilrn2025/home/)), June 15–19, 2025, Chicago, Illinois, US
