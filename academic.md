@@ -29,6 +29,7 @@ title: Academic
 - **Conferences**
   - ACM CHI Conference on Human Factors in Computing Systems ([CHI 2026](https://chi2026.acm.org/)), April 13-17, 2026, Barcelona, Spain
   - 31st ACM Conference on Intelligent User Interfaces ([ACM IUI 2026](https://iui.acm.org/2026/)), March 23-26, 2026, Paphos, Cyprus
+  - 33rd IEEE Conference on Virtual Reality and 3D User Interfaces ([IEEE VR 2026](https://ieeevr.org/2026/)), March 21-25, 2026, Daegu, South Korea
   - 24th IEEE International Symposium on Mixed and Augmented Reality ([ISMAR 2025](https://www.ieeeismar.net/2025/)), October 8-12, 2025, Daejeon, South Korea 
   - 11th International Conference of the Immersive Learning Research Network ([iLRN 2025](https://www.immersivelrn.org/ilrn2025/home/)), June 15–19, 2025, Chicago, Illinois, US
   - ACM International Conference on Interactive Media Experiences ([IMX 2025](https://imx.acm.org/2025/)), June 3-6, 2025, Rio de Janeiro, Brazil
@@ -45,6 +46,7 @@ title: Academic
 
 # Other Activities
 - Program Committee Member at 12th International Conference of the Immersive Learning Research Network ([iLRN 2026](https://www.immersivelrn.org/ilrn2026/home/)), June 27–30, 2026, Athens, Greece
+- Program Committee Member at 31st ACM Conference on Intelligent User Interfaces ([ACM IUI 2026](https://iui.acm.org/2026/)), March 23-26, 2026, Paphos, Cyprus
 - Program Committee Member at 11th International Conference of the Immersive Learning Research Network ([iLRN 2025](https://www.immersivelrn.org/ilrn2025/home/)), June 15–19, 2025, Chicago, Illinois, US
 - Session Chair at 9th International Conference on Human Computer Interaction Theory and Applications ([HUCAPP 2025](https://hucapp.scitevents.org/?y=2025)), February 26-28, 2025, Porto, Portugal
 - Program Committee Member at 8th International Conference on Artificial Intelligence and Virtual Reality ([AIVR 2024](https://aivr.org/)), July 19-21, 2024, Fukuoka, Japan
