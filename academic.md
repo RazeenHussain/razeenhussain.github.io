@@ -18,6 +18,7 @@ title: Academic
 
 # Reviewing Activities
 - **Journals**
+  - IEEE Transactions on Visualization and Computer Graphics ([TVCG](https://www.computer.org/csdl/journal/tg))
   - [Virtual Reality](https://link.springer.com/journal/10055)
   - IEEE Transactions on Human-Machine Systems ([THMS](https://www.ieeesmc.org/publications/transactions-on-human-machine-systems/))
   - [Frontiers in Virtual Reality](https://www.frontiersin.org/journals/virtual-reality)
