@@ -13,6 +13,7 @@ title: Supervision
 <br>
 
 # Bachelors
+- Silvia Curumi, BSc Biomedical Engineering, 2025-Current
 - Alessandro Venere, BSc Biomedical Engineering, 2025-Current
 - Francesco Gnone, BSc Biomedical Engineering, 2025
 - Antonio Mazziotta, BSc Computer Science, 2024-2025
