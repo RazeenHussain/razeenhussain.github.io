@@ -24,6 +24,7 @@ title: Academic
   - [Frontiers in Virtual Reality](https://www.frontiersin.org/journals/virtual-reality)
   - IEEE Computer Graphics and Applications ([CG&A](https://www.computer.org/csdl/magazine/cg))
   - International Journal of Human-Computer Interaction ([IJHCI](https://www.tandfonline.com/journals/hihc20))
+  - International Journal of Industrial Ergonomics ([IJIE](https://www.sciencedirect.com/journal/international-journal-of-industrial-ergonomics))
 
 <br>
 
