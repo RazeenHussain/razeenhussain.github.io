@@ -13,6 +13,8 @@ title: Events
 <br>
 
 # Conferences
+- 1st ACM International Conference on Human-Computer Interaction in the Alps ([AlpCHI 2026](https://alpchi.org/)), March 1-5, 2026, Ascona, Switzerland
+- 8th IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality ([AIxVR 2026](https://aivr.science.uu.nl/2026/index.html)), January 26-28, 2026, Osaka, Japan
 - 9th International Conference on Human Computer Interaction Theory and Applications ([HUCAPP 2025](https://hucapp.scitevents.org/?y=2025)), February 26-28, 2025, Porto, Portugal
 - Annual Plenary Meeting of [Fit4MedRob](https://www.fit4medrob.it/), February 20-21, 2025, Pavia, Italy
 - 19th International Conference on Computer Graphics Theory and Applications ([GRAPP 2024](https://grapp.scitevents.org/?y=2024)), February 27-29, 2024, Rome, Italy
