@@ -4,6 +4,8 @@ title: Academic
 ---
 
 # Seminar/Talks
+- *Are Digital Characters Suitable for Emotion Recognition Tasks? An Evaluation Study Using MetaHumans*, March 3, 2026, Ascona, Switzerland
+- *Designing Emotionally Intelligent Embodied Agents for Immersive Virtual Reality Experiences*, January 28, 2026, Osaka, Japan
 - *Rendering & Shaders in Unity*, May 19, 2025, Genoa, Italy
 - *A Serious Game for Early Detection and Assessment of Social Apathy: A Pilot Study*, February 27, 2025, Porto, Portugal
 - *Perception & Interaction Lab @ DIBRIS*, December 11, 2024, Genoa, Italy
