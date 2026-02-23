@@ -4,7 +4,7 @@ title: Supervision
 ---
 
 # Masters
-- Celeste Bazzi, MSc Computer Science, 2025-Current
+- [Celeste Bazzi](https://www.linkedin.com/in/celeste-bazzi-739492a6/), MSc Computer Science, 2025-Current
 - [Federica Bruno](https://www.linkedin.com/in/federica-bruno-5bb219390/), MSc Bioengineering, 2025
 - [Behnam Rad](https://www.linkedin.com/in/behnam-rad/), MSc Computer Science, 2024-2025
 - [Shayan Alvansazyazdi](https://www.linkedin.com/in/shayan-alvansazyazdi/), MSc Computer Science, 2024-2025
@@ -13,8 +13,8 @@ title: Supervision
 <br>
 
 # Bachelors
-- Silvia Curumi, BSc Biomedical Engineering, 2025-Current
-- Alessandro Venere, BSc Biomedical Engineering, 2025-Current
+- Silvia Curumi, BSc Biomedical Engineering, 2025-2026
+- Alessandro Venere, BSc Biomedical Engineering, 2025-2026
 - Francesco Gnone, BSc Biomedical Engineering, 2025
 - Antonio Mazziotta, BSc Computer Science, 2024-2025
 - Alessandro Venturini, BSc Biomedical Engineering, 2024-2025
