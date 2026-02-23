@@ -14,7 +14,7 @@ title: Publications
 <br>
 
 # Conference Proceedings
-- Federica Bruno, **Razeen Hussain**, Manuela Chessa, Guillaume Sacco, Valeria Manera, Maël Addoum & Fabio Solari (2026). Are Digital Characters Suitable for Emotion Recognition Tasks? An Evaluation Study Using MetaHumans. In 2026 ACM 1st International Conference on Human-Computer Interaction in the Alps (AlpCHI). [DOI:10.1145/3780045.3780054](https://doi.org/10.1145/3780045.3780054) [IN PRESS]
+- Federica Bruno, **Razeen Hussain**, Manuela Chessa, Guillaume Sacco, Valeria Manera, Maël Addoum & Fabio Solari (2026). Are Digital Characters Suitable for Emotion Recognition Tasks? An Evaluation Study Using MetaHumans. In 2026 ACM 1st International Conference on Human-Computer Interaction in the Alps (AlpCHI). [DOI:10.1145/3780045.3780054](https://doi.org/10.1145/3780045.3780054)
 - Seyedbehnam Rad, **Razeen Hussain**, Manuela Chessa & Fabio Solari (2026). Designing Emotionally Intelligent Embodied Agents for Immersive Virtual Reality Experiences. In 2026 IEEE 8th International Conference on Artificial Intelligence & extended and Virtual Reality (AIxVR). [DOI:10.1109/AIxVR67263.2026.00023](https://doi.org/10.1109/AIxVR67263.2026.00023) [IN PRESS] 
 - **Razeen Hussain**, Manuela Chessa & Fabio Solari (2025). A Comparative Study on Locomotion Methods and Distance Perception in Immersive Virtual Reality. In 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). [DOI:10.1109/VRW66409.2025.00275](https://doi.org/10.1109/VRW66409.2025.00275)
 - Cristina Díez Bort, **Razeen Hussain**, Valeria Manera, Manuela Chessa & Fabio Solari (2025). A Serious Game for Early Detection and Assessment of Social Apathy: A Pilot Study. In 2025 9th International Conference on Human Computer Interaction Theory and Applications (HUCAPP). [DOI:10.5220/0013119700003912](https://doi.org/10.5220/0013119700003912)
@@ -35,6 +35,7 @@ title: Publications
 # Patents
 - **Razeen Hussain**, Fabio Solari & Manuela Chessa (2023). Method based on inverse blurring for immersive media devices to mitigate vergence accommodation conflict. PCT/IB2023/059732, filed 29/09/2023. [WIPO Patent Pending]
 - **Razeen Hussain**, Fabio Solari & Manuela Chessa (2022). Metodo basato sulla sfocatura inversa per dispositivi multimediali immersivi per attenuare il conflitto vergenza/accomodamento. IT102022000022278, filed 28/10/2022, granted 10/10/2024.
+
 
 
 
