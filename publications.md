@@ -28,13 +28,14 @@ title: Publications
 <br>
 
 # Book Chapters
-- Raabid Hussain, Shayan Alvansazyazdi, Giuseppe Ricciardi & **Razeen Hussain** (2026). Advanced Surgical Techniques Using Robotics and Augmented Reality. In Behnam Molaee & Manuel Segovia (Eds.), Advancing Cochlear Implants: Current and Emerging Methods and Technologies. [IN PRESS]
+- Raabid Hussain, Shayan Alvansazyazdi, Giuseppe Ricciardi & **Razeen Hussain** (2026). Advanced Surgical Techniques Using Robotics and Augmented Reality. In Behnam Molaee & Manuel Segovia (Eds.), Advancing Cochlear Implants: Current and Emerging Methods and Technologies. [DOI:10.1007/978-3-032-15719-5_14](https://doi.org/10.1007/978-3-032-15719-5_14)
 
 <br>
 
 # Patents
 - **Razeen Hussain**, Fabio Solari & Manuela Chessa (2023). Method based on inverse blurring for immersive media devices to mitigate vergence accommodation conflict. PCT/IB2023/059732, filed 29/09/2023. [WIPO Patent Pending]
 - **Razeen Hussain**, Fabio Solari & Manuela Chessa (2022). Metodo basato sulla sfocatura inversa per dispositivi multimediali immersivi per attenuare il conflitto vergenza/accomodamento. IT102022000022278, filed 28/10/2022, granted 10/10/2024.
+
 
 
 
