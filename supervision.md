@@ -4,6 +4,8 @@ title: Supervision
 ---
 
 # Masters
+- Danila Diaferia, MSc Bioengineering, 2026-Current
+- Carlos Andres Galarza Del Pozo, MSc Bioengineering, 2026-Current
 - [Celeste Bazzi](https://www.linkedin.com/in/celeste-bazzi-739492a6/), MSc Computer Science, 2025-Current
 - [Federica Bruno](https://www.linkedin.com/in/federica-bruno-5bb219390/), MSc Bioengineering, 2025
 - [Behnam Rad](https://www.linkedin.com/in/behnam-rad/), MSc Computer Science, 2024-2025
