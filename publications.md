@@ -4,6 +4,7 @@ title: Publications
 ---
 
 # Journal Articles
+- **Razeen Hussain**, Muhammad Mohsin, Dadan Khan & Mohammad Zohaib (2026). A Systematic Review of Deep Learning Approaches for Hepatopancreatic Tumor Segmentation. Journal of Imaging. [In Press]
 - Shayan Alvansazyazdi, **Razeen Hussain**, Jan Margeta, Manuela Chessa, Roger Calixto, Reda Abdellah Kamraoui, Raabid Hussain & Fabio Solari (2026). Vision-Based Object Detection and Tracking from Surgical Microscope Video for Augmented Cochlear Implant Surgery. Cochlear Implants International. [DOI:10.1080/14670100.2026.2622144](https://doi.org/10.1080/14670100.2026.2622144)
 - Valeria Manera, Maria Cordero-Rull, **Razeen Hussain** & Fabio Solari (2025). The interest of eye-tracking for apathy detection in patients with Mild Neurocognitive Disorders. Alzheimer's & Dementia, 21:e099728. [DOI:10.1002/alz70856_099728](https://doi.org/10.1002/alz70856_099728)
 - **Razeen Hussain**, Manuela Chessa & Fabio Solari (2023). Improving depth perception in immersive media devices by addressing vergence-accommodation conflict. IEEE Transactions on Visualization & Computer Graphics (TVCG), 30(9). [DOI:10.1109/TVCG.2023.3331902](https://doi.org/10.1109/TVCG.2023.3331902)
