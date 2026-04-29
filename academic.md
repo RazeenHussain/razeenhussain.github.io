@@ -31,6 +31,8 @@ title: Academic
 <br>
 
 - **Conferences**
+  - 25th IEEE International Symposium on Mixed and Augmented Reality ([ISMAR 2026](https://www.ieeeismar.net/2026/)), October 5-9, 2026, Bari, Italy 
+  - 35th IEEE International Conference on Robot and Human Interactive Communication ([RO-MAN 2026](https://ro-man2026.org/), August 24-28, 2026, Kitakyushu, Fukuoka, Japan 
   - ACM CHI Conference on Human Factors in Computing Systems ([CHI 2026](https://chi2026.acm.org/)), April 13-17, 2026, Barcelona, Spain
   - 31st ACM Conference on Intelligent User Interfaces ([ACM IUI 2026](https://iui.acm.org/2026/)), March 23-26, 2026, Paphos, Cyprus
   - 33rd IEEE Conference on Virtual Reality and 3D User Interfaces ([IEEE VR 2026](https://ieeevr.org/2026/)), March 21-25, 2026, Daegu, South Korea
