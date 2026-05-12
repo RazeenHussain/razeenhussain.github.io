@@ -4,6 +4,7 @@ title: Academic
 ---
 
 # Seminar/Talks
+- *Shaders in Unity*, May 12, 2026, Genoa, Italy
 - *Are Digital Characters Suitable for Emotion Recognition Tasks? An Evaluation Study Using MetaHumans*, March 3, 2026, Ascona, Switzerland
 - *Designing Emotionally Intelligent Embodied Agents for Immersive Virtual Reality Experiences*, January 28, 2026, Osaka, Japan
 - *Rendering & Shaders in Unity*, May 19, 2025, Genoa, Italy
