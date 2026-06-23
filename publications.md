@@ -4,7 +4,7 @@ title: Publications
 ---
 
 # Journal Articles
-- **Razeen Hussain**, Manuela Chessa & Fabio Solari (2026). Comparing Distance Perception Across Common Virtual Reality Locomotion Methods. Multimedia Tools and Applications. [IN PRESS]
+- **Razeen Hussain**, Manuela Chessa & Fabio Solari (2026). Comparing Distance Perception Across Common Virtual Reality Locomotion Methods. Multimedia Tools and Applications. [DOI:10.1007/s11042-026-21747-z](https://doi.org/10.1007/s11042-026-21747-z) [IN PRESS]
 - **Razeen Hussain**, Muhammad Mohsin, Dadan Khan & Mohammad Zohaib (2026). A Systematic Review of Deep Learning Approaches for Hepatopancreatic Tumor Segmentation. Journal of Imaging, 12(4). [DOI:10.3390/jimaging12040147](https://doi.org/10.3390/jimaging12040147)
 - Shayan Alvansazyazdi, **Razeen Hussain**, Jan Margeta, Manuela Chessa, Roger Calixto, Reda Abdellah Kamraoui, Raabid Hussain & Fabio Solari (2026). Vision-Based Object Detection and Tracking from Surgical Microscope Video for Augmented Cochlear Implant Surgery. Cochlear Implants International, 27(2). [DOI:10.1080/14670100.2026.2622144](https://doi.org/10.1080/14670100.2026.2622144)
 - Valeria Manera, Maria Cordero-Rull, **Razeen Hussain** & Fabio Solari (2025). The interest of eye-tracking for apathy detection in patients with Mild Neurocognitive Disorders. Alzheimer's & Dementia, 21:e099728. [DOI:10.1002/alz70856_099728](https://doi.org/10.1002/alz70856_099728)
@@ -16,6 +16,7 @@ title: Publications
 <br>
 
 # Conference Proceedings
+- **Razeen Hussain**, Manuela Chessa & Fabio Solari (2026). An Overview of Emerging Trends in XR-Enabled Human–AI Collaboration for Circular Economy and Recycling Systems. In 2026 IEEE 10th Forum on Research and Technologies for Society and Industry Innovation (RTSI). [IN PRESS]
 - Federica Bruno, **Razeen Hussain**, Manuela Chessa, Guillaume Sacco, Valeria Manera, Maël Addoum & Fabio Solari (2026). Are Digital Characters Suitable for Emotion Recognition Tasks? An Evaluation Study Using MetaHumans. In 2026 ACM 1st International Conference on Human-Computer Interaction in the Alps (AlpCHI). [DOI:10.1145/3780045.3780054](https://doi.org/10.1145/3780045.3780054)
 - Seyedbehnam Rad, **Razeen Hussain**, Manuela Chessa & Fabio Solari (2026). Designing Emotionally Intelligent Embodied Agents for Immersive Virtual Reality Experiences. In 2026 IEEE 8th International Conference on Artificial Intelligence & extended and Virtual Reality (AIxVR). [DOI:10.1109/AIxVR67263.2026.00023](https://doi.org/10.1109/AIxVR67263.2026.00023) 
 - **Razeen Hussain**, Manuela Chessa & Fabio Solari (2025). A Comparative Study on Locomotion Methods and Distance Perception in Immersive Virtual Reality. In 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). [DOI:10.1109/VRW66409.2025.00275](https://doi.org/10.1109/VRW66409.2025.00275)
