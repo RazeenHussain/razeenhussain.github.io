@@ -4,7 +4,7 @@ title: Publications
 ---
 
 # Journal Articles
-- **Razeen Hussain**, Manuela Chessa & Fabio Solari (2026). Comparing Distance Perception Across Common Virtual Reality Locomotion Methods. Multimedia Tools and Applications. [DOI:10.1007/s11042-026-21747-z](https://doi.org/10.1007/s11042-026-21747-z) [IN PRESS]
+- **Razeen Hussain**, Manuela Chessa & Fabio Solari (2026). Comparing Distance Perception Across Common Virtual Reality Locomotion Methods. Multimedia Tools and Applications, 85(7). [DOI:10.1007/s11042-026-21747-z](https://doi.org/10.1007/s11042-026-21747-z)
 - **Razeen Hussain**, Muhammad Mohsin, Dadan Khan & Mohammad Zohaib (2026). A Systematic Review of Deep Learning Approaches for Hepatopancreatic Tumor Segmentation. Journal of Imaging, 12(4). [DOI:10.3390/jimaging12040147](https://doi.org/10.3390/jimaging12040147)
 - Shayan Alvansazyazdi, **Razeen Hussain**, Jan Margeta, Manuela Chessa, Roger Calixto, Reda Abdellah Kamraoui, Raabid Hussain & Fabio Solari (2026). Vision-Based Object Detection and Tracking from Surgical Microscope Video for Augmented Cochlear Implant Surgery. Cochlear Implants International, 27(2). [DOI:10.1080/14670100.2026.2622144](https://doi.org/10.1080/14670100.2026.2622144)
 - Valeria Manera, Maria Cordero-Rull, **Razeen Hussain** & Fabio Solari (2025). The interest of eye-tracking for apathy detection in patients with Mild Neurocognitive Disorders. Alzheimer's & Dementia, 21:e099728. [DOI:10.1002/alz70856_099728](https://doi.org/10.1002/alz70856_099728)
