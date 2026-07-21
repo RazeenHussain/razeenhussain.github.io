@@ -17,6 +17,8 @@ title: Publications
 <br>
 
 # Conference Proceedings
+- Celeste Bazzi, **Razeen Hussain**, Manuela Chessa & Fabio Solari (2026). How Avatar Realism Affects User Perception in Virtual Reality. In 2026 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) [IN PRESS]
+- Marianna Pizzo, Eros Viola, **Razeen Hussain**, Fabio Solari & Manuela Chessa (2026). From Substitutional Reality to Rehabilitation: Passive-Haptic Chair Registration as a Foundation for Virtual Reality Motor Assessment and Training. In 2026 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) [IN PRESS]
 - **Razeen Hussain**, Manuela Chessa & Fabio Solari (2026). An Overview of Emerging Trends in XR-Enabled Human–AI Collaboration for Circular Economy and Recycling Systems. In 2026 IEEE 10th Forum on Research and Technologies for Society and Industry Innovation (RTSI). [IN PRESS]
 - Federica Bruno, **Razeen Hussain**, Manuela Chessa, Guillaume Sacco, Valeria Manera, Maël Addoum & Fabio Solari (2026). Are Digital Characters Suitable for Emotion Recognition Tasks? An Evaluation Study Using MetaHumans. In 2026 ACM 1st International Conference on Human-Computer Interaction in the Alps (AlpCHI). [DOI:10.1145/3780045.3780054](https://doi.org/10.1145/3780045.3780054)
 - Seyedbehnam Rad, **Razeen Hussain**, Manuela Chessa & Fabio Solari (2026). Designing Emotionally Intelligent Embodied Agents for Immersive Virtual Reality Experiences. In 2026 IEEE 8th International Conference on Artificial Intelligence & extended and Virtual Reality (AIxVR). [DOI:10.1109/AIxVR67263.2026.00023](https://doi.org/10.1109/AIxVR67263.2026.00023) 
