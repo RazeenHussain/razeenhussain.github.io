@@ -17,6 +17,7 @@ title: Supervision
 <br>
 
 # Bachelors
+- Giovanni Melegari, BSc Biomedical Engineering, 2026-Current
 - Silvia Curumi, BSc Biomedical Engineering, 2025-2026
 - Alessandro Venere, BSc Biomedical Engineering, 2025-2026
 - Francesco Gnone, BSc Biomedical Engineering, 2025
