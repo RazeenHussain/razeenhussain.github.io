@@ -5,7 +5,7 @@ title: "Research Activities"
 
 # Depth Perception
 ![alt text](assets/Depth.jpg)
-A critical factor in designing effective virtual reality systems is the accurate representation of depth and spatial layout, as depth perception is essential for seamless human interaction with virtual environments. This research explores innovative approaches to enhancing spatial awareness and visual realism, emphasizing gaze-contingent focus cues, advanced visualization techniques, and intuitive locomotion methods. The goal is to optimize user experience and interaction within immersive extended reality applications.
+A critical factor in designing effective virtual reality systems is the accurate representation of depth and spatial layout, as depth perception is essential for seamless human interaction with virtual environments. This research explores innovative approaches to enhancing spatial awareness and visual realism, emphasizing gaze-contingent focus cues, advanced visualization techniques, and intuitive locomotion methods. The goal is to optimize user experience and interaction within immersive extended reality applications. [[LINK](https://link.springer.com/article/10.1007/s10055-026-01438-8)]
 
 <br>
 
