@@ -16,7 +16,7 @@ Recently, immersive media devices have surged in popularity, yet several issues 
 <br>
 
 # Virtual Reality Empathic Agents
-![alt text](assets/EMBRACE.jpg)
+![alt text](assets/EMBRACE.png)
 The integration of conversational agents in virtual reality (VR) offers promising opportunities for applications such as training, education, and mental health support. However, most current VR agents lack empathic capabilities, which are crucial for fostering engagement, trust, and effective interaction. To address this gap, we developed EMBRACE, a modular framework that combines natural language processing, emotion inference, expressive text-to-speech synthesis, and AI-driven facial animation to deliver emotionally responsive VR agents. [[LINK](https://ieeexplore.ieee.org/abstract/document/11450021)]
 
 <br>
