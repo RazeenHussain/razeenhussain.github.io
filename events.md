@@ -13,6 +13,7 @@ title: Events
 <br>
 
 # Conferences
+- 10th IEEE 10th International Forum on Research and Technologies for Society and Industry ([RTSI 2026](https://2026.ieee-rtsi.org/)), August 16-18, 2026, Helsinki, Finland
 - 1st ACM International Conference on Human-Computer Interaction in the Alps ([AlpCHI 2026](https://alpchi.org/)), March 1-5, 2026, Ascona, Switzerland
 - 8th IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality ([AIxVR 2026](https://aivr.science.uu.nl/2026/index.html)), January 26-28, 2026, Osaka, Japan
 - 9th International Conference on Human Computer Interaction Theory and Applications ([HUCAPP 2025](https://hucapp.scitevents.org/?y=2025)), February 26-28, 2025, Porto, Portugal
