@@ -4,6 +4,7 @@ title: Academic
 ---
 
 # Seminar/Talks
+- *An Overview of Emerging Trends in XR-Enabled Human-AI Collaboration for Circular Economy and Recycling Systems*, August 18, Helsinki, Finland
 - *Shaders in Unity*, May 12, 2026, Genoa, Italy
 - *Are Digital Characters Suitable for Emotion Recognition Tasks? An Evaluation Study Using MetaHumans*, March 3, 2026, Ascona, Switzerland
 - *Designing Emotionally Intelligent Embodied Agents for Immersive Virtual Reality Experiences*, January 28, 2026, Osaka, Japan
@@ -25,6 +26,7 @@ title: Academic
   - [Virtual Reality](https://link.springer.com/journal/10055)
   - IEEE Transactions on Human-Machine Systems ([THMS](https://www.ieeesmc.org/publications/transactions-on-human-machine-systems/))
   - [Frontiers in Virtual Reality](https://www.frontiersin.org/journals/virtual-reality)
+  - [Multimedia Systems](https://link.springer.com/journal/530)
   - IEEE Computer Graphics and Applications ([CG&A](https://www.computer.org/csdl/magazine/cg))
   - International Journal of Human-Computer Interaction ([IJHCI](https://www.tandfonline.com/journals/hihc20))
   - International Journal of Industrial Ergonomics ([IJIE](https://www.sciencedirect.com/journal/international-journal-of-industrial-ergonomics))
