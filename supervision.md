@@ -6,8 +6,8 @@ title: Supervision
 # Masters
 - Samuele Capani, MSc Computer Science, 2026-Current
 - Hammad Aamir, MSc Computer Science, 2026-Current
-- Danila Diaferia, MSc Bioengineering, 2026-Current
 - Carlos Andres Galarza Del Pozo, MSc Bioengineering, 2026-Current
+- [Danila Diaferia](https://www.linkedin.com/in/danila-diaferia-043a6a366/), MSc Bioengineering, 2026
 - [Celeste Bazzi](https://www.linkedin.com/in/celeste-bazzi-739492a6/), MSc Computer Science, 2025-2026
 - [Federica Bruno](https://www.linkedin.com/in/federica-bruno-5bb219390/), MSc Bioengineering, 2025
 - [Behnam Rad](https://www.linkedin.com/in/behnam-rad/), MSc Computer Science, 2024-2025
@@ -17,7 +17,7 @@ title: Supervision
 <br>
 
 # Bachelors
-- Giovanni Melegari, BSc Biomedical Engineering, 2026-Current
+- Giovanni Melegari, BSc Biomedical Engineering, 2026
 - Silvia Curumi, BSc Biomedical Engineering, 2025-2026
 - Alessandro Venere, BSc Biomedical Engineering, 2025-2026
 - Francesco Gnone, BSc Biomedical Engineering, 2025
